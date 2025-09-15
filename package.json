@@ -1,0 +1,19 @@
+{
+  "name": "reinas-del-chisme",
+  "version": "1.0.0",
+  "description": "Taller de POO - Sistema de chismosas profesionales",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "poo",
+    "clases",
+    "javascript",
+    "nodejs",
+    "taller"
+  ],
+  "author": "Estudiante",
+  "license": "ISC"
+}
